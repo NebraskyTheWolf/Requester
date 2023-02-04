@@ -1,0 +1,12 @@
+{
+    "name": "nebraskythewolf/requester",
+    "description": "Many libs for Nebrasky projects",
+    "type": "library",
+    "authors": [
+        {
+            "name": "NebraskyTheWolf",
+            "email": "contact@ghidorah.uk"
+        }
+    ],
+    "require": {}
+}
